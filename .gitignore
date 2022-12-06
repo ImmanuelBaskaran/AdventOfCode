@@ -4,3 +4,4 @@
 *.dump
 
 out
+cmake-*
