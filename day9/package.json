@@ -1,0 +1,13 @@
+{
+  "name": "day9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "coffee solution.coffee --nodejs"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.7.0"
+  },
+  "type": "module"
+}
