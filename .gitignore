@@ -3,5 +3,15 @@
 *.iml
 *.dump
 
+node_modules
+
 out
 cmake-*
+*.exe
+*.o
+
+input.txt
+input
+inputCleaned.txt
+
+obj
